@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meteo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/C:/Users/DELL/Desktop/div/meteo/meteo.xsd">
+    <mesure date="2025-03-04">
+        <ville nom="Casablanca" temperature="20"/>
+        <ville nom="Rabat" temperature="21"/>
+        <ville nom="Marrackech" temperature="30"/>
+        <ville nom="Kenitra" temperature="22"/>
+        <ville nom="Nador" temperature="24"/>
+        <ville nom="Mohammedia" temperature="22"/>
+        <ville nom="Ouarzazate" temperature="31"/>
+        <ville nom="Dakhla" temperature="34"/>
+        <ville nom="Oujda" temperature="29"/>
+        <ville nom="Laayoune" temperature="31"/>
+    </mesure>
+    <mesure date="2025-09-14">
+        <ville nom="Casablanca" temperature="24"/>
+        <ville nom="Rabat" temperature="23"/>
+        <ville nom="Marrackech" temperature="34"/>
+        <ville nom="Kenitra" temperature="26"/>
+        <ville nom="Nador" temperature="29"/>
+        <ville nom="Mohammedia" temperature="25"/>
+        <ville nom="Ouarzazate" temperature="39"/>
+        <ville nom="Dakhla" temperature="40"/>
+        <ville nom="Oujda" temperature="30"/>
+        <ville nom="Laayoune" temperature="41"/>
+    </mesure>
+</meteo>
